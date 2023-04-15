@@ -4,9 +4,9 @@
 [![Github Stars](https://img.shields.io/github/stars/ousheobin?color=faf408&label=github%20stars&logo=github)](https://github.com/ousheobin)
 
 
-你好鸭！我是 Steve，一个前外企软件工程师，伦敦大学国王学院的软件工程硕士。我喜欢研究后台开发和大数据处理框架等技术（有时候也看点编译相关的东西）
+你好鸭！我是 Steve，前外企软件工程师，伦敦大学国王学院的软件工程硕士，现在是厂子里业务开发一枚。我喜欢研究后台开发和大数据处理框架等技术（有时候也看点编译相关的东西）
 
-Hi everyone, this is Steve. I am a former software engineer of a multinational company and I have obtained the postgraduate degree in Software Engineering from King's College London.
+Hiya, this is Steve. I am a former software engineer of a multinational company and I have obtained the postgraduate degree in Software Engineering from King's College London. Nowadays, I am working for a ticketing company which 'might be' famous in China. 
 
 🤔 I am interested in Backend Development and Big Data Processing Infrastructure. (Sometimes I am happy to investigate some complier relevant technologies)
 
